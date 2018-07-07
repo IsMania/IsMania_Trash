@@ -1,0 +1,6 @@
+name: IsMania_Trash
+version: 1.0
+author: IsMania
+main: fr.ismania.trash.Main
+commands:
+  trash:
