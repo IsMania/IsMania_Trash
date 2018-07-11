@@ -4,3 +4,5 @@ author: IsMania
 main: fr.ismania.trash.Main
 commands:
   trash:
+  nether:
+  end:
