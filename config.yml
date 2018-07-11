@@ -1,0 +1,16 @@
+nether:
+  messages:
+    not_acess: '§cVous n'avez pas accès au nether !'
+  location:
+    x:
+    y:
+    z:
+    world:
+end:
+  messages:
+    not_acess: '§cVous n'avez pas accès à l'end !'
+  location:
+    x:
+    y:
+    z:
+    world:
